@@ -2,7 +2,7 @@
 - 📫 How to reach me: [Telegram](https://t.me/askzrpv)
 
 
-![visits]((https://count.getloli.com/get/@AskhatZRPV?theme=rule34))
+![visits](https://count.getloli.com/get/@AskhatZRPV?theme=rule34)
 
 
 <!---
