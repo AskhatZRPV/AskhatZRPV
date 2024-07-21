@@ -2,7 +2,7 @@
 - 📫 How to reach me: [Telegram](https://t.me/askzrpv)
 
 
-![visits](https://count.getloli.com/get/@AskhatZRPV?theme=rule34)
+![](https://komarev.com/ghpvc/?username=AskhatZRPV)
 
 
 ![AskhatZRPV's GitHub stats](https://github-readme-stats.vercel.app/api?username=askhatzrpv&show_icons=true&theme=radical)
